@@ -14,7 +14,7 @@
 - Understanding that details matter.
 - There is no question "Is it possible to do...", the only one is "How to do it?".
 
-<h3>Main goals for 2024</h3>
+<h2>Main goals for 2024</h2>
 
 - Mastering:
    - React 
@@ -26,7 +26,7 @@
    - Cypress
 
 
-<h3>Main technologies I use:</h3>
+<h2>Main technologies I use:</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
