@@ -2,7 +2,7 @@
 <h1> Hi 👋 I am Jakub</h1>
 <p align="left"> <img src="https://github.com/kuba00030/kuba00030/assets/83354878/f62684f6-48c3-4aca-aac2-74443f037822" alt="GIF" width="400" align="right" /> </p>
 
-📖 IT student, programmer by passion, devoting my time to become software engineer.
+📖 IT student, programmer by passion, devoting my time to become fullstack developer.
 
 😃 Always enthusiastic about problem solving and turning ideas into reality.
 
