@@ -14,16 +14,15 @@
 - Understanding that details matter.
 - There is no question "Is it possible to do...", the only one is "How to do it?".
 
-<h2>Main goals for 2024</h2>
+<h2>Main goals for 2025</h2>
 
 - Mastering:
    - React 
    - Typescript
    - SOLID principles
 - Learning:
-   - Go
-   - Jest
-   - Cypress
+   - Angular
+   - Java
 
 
 <h2>Main technologies I use:</h2>
